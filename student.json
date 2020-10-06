@@ -1,0 +1,16 @@
+[
+    {
+        "name": "danshaung",
+        "email": "danshoung@gmail.com",
+        "gender": "Male",
+        "address": "mkn",
+        "profile": "photo\/contact.png"
+    },
+    {
+        "name": "danshaung1",
+        "email": "danshoung1@gmail.com",
+        "gender": "Male",
+        "address": "hello",
+        "profile": "photo\/about.png"
+    }
+]
